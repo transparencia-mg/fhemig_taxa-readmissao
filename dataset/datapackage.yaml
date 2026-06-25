@@ -25,6 +25,9 @@ resources:
         - name: readmissoes
           type: integer
           description: "Total de pacientes readmitidos no período, transcorridos até 30 dias da alta hospitalar."
+        - name: altas_validas
+          type: integer
+          description: "Altas corretamente codificadas no DRG (excluídos os casos em que o código do DRG é 999)."  
         - name: obitos
           type: integer
           description: "Óbito hospitalar (ocorre após entrada no hospital, independentemente dos procedimentos administrativos já terem sido realizados)."
