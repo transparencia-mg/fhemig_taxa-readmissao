@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.047,
+  "time": 0.032,
   "errors": [],
   "tasks": [
     {
@@ -57,13 +57,13 @@
         "scheme": "file",
         "title": "Taxa de readmissão em até 30 dias por complicação",
         "stats": {
-          "hash": "a8dc08164f874fe8d2e8e4b5069e6d33",
-          "bytes": 28253,
+          "hash": "8a01ecfcaf5da6599f0666b7865782a0",
+          "bytes": 28827,
           "fields": 7,
-          "rows": 672
+          "rows": 686
         }
       },
-      "time": 0.036,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
