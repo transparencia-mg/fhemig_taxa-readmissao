@@ -11,8 +11,8 @@
       "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
-      "name": "taxa-readmissao-2025",
-      "path": "data/taxa-readmissao-2025.csv",
+      "name": "taxa-readmissao",
+      "path": "data/taxa-readmissao.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
